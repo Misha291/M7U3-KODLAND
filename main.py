@@ -1,6 +1,9 @@
 # библиотеки для установки:
 # pip install sounddevice scipy numpy SpeechRecognition
 
+# запуск через терминал:
+# python main.py
+
 
 
 import sounddevice as sd
